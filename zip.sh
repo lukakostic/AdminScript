@@ -1,0 +1,1 @@
+zip -r built.zip ./ -x built.zip
